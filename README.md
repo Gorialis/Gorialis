@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **22:04 UTC, 2020-11-29**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **22:21 UTC, 2020-11-29**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,34 +30,34 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">アルミ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%A2%E3%83%AB%E3%83%9F">アルミ</a></b></h3>
+            <p align="center">ていねん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AE%9A%E5%B9%B4">定年</a></b></h3>
             <hr>
-            <p align="center">aluminum (Al,<wbr> aluminum)</p>
+            <p align="center">retirement age</p>
         </td>
         <td>
-            <p align="center">じゅんかん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%BE%AA%E7%92%B0">循環</a></b></h3>
+            <p align="center">つっこむ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%AA%81%E3%81%A3%E8%BE%BC%E3%82%80">突っ込む</a></b></h3>
             <hr>
-            <p align="center">circulation,<wbr> rotation,<wbr> cycle</p>
+            <p align="center">to plunge into,<wbr> to stick into</p>
         </td>
         <td>
-            <p align="center">バッグ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%90%E3%83%83%E3%82%B0">バッグ</a></b></h3>
+            <p align="center">つかれ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%96%B2%E3%82%8C">疲れ</a></b></h3>
             <hr>
-            <p align="center">bag</p>
+            <p align="center">tiredness,<wbr> fatigue</p>
         </td>
         <td>
-            <p align="center">よしゅう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BA%88%E7%BF%92">予習</a></b></h3>
+            <p align="center">～せい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E8%A3%BD">～製</a></b></h3>
             <hr>
-            <p align="center">preparation of lessons (for class)</p>
+            <p align="center">made in ~</p>
         </td>
         <td>
-            <p align="center">ようふく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B4%8B%E6%9C%8D">洋服</a></b></h3>
+            <p align="center">ちいさな</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B0%8F%E3%81%95%E3%81%AA">小さな</a></b></h3>
             <hr>
-            <p align="center">Western-style clothes</p>
+            <p align="center">small,<wbr> little</p>
         </td>
     </tr>
 </table>
@@ -77,5 +77,5 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [██████████████████▁▁] 91.23%</code></pre>
+<pre><code>2020 [██████████████████▁▁] 91.24%</code></pre>
 </details>
