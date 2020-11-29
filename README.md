@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **21:57 UTC, 2020-11-29**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **21:58 UTC, 2020-11-29**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,34 +30,34 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">さがく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B7%AE%E9%A1%8D">差額</a></b></h3>
+            <p align="center">りょかく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%97%85%E5%AE%A2">旅客</a></b></h3>
             <hr>
-            <p align="center">balance,<wbr> difference,<wbr> margin</p>
+            <p align="center">passenger</p>
         </td>
         <td>
-            <p align="center">あれる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%8D%92%E3%82%8C%E3%82%8B">荒れる</a></b></h3>
+            <p align="center">しずまる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9D%99%E3%81%BE%E3%82%8B">静まる</a></b></h3>
             <hr>
-            <p align="center">to be stormy,<wbr> to be rough,<wbr> to be ruined</p>
+            <p align="center">to quieten down,<wbr> to calm down</p>
         </td>
         <td>
-            <p align="center">どうし</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%90%8C%E5%A3%AB">同士</a></b></h3>
+            <p align="center">うし</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%89%9B">牛</a></b></h3>
             <hr>
-            <p align="center">one another,<wbr> companion,<wbr> comrade</p>
+            <p align="center">cattle,<wbr> cow</p>
         </td>
         <td>
-            <p align="center">ねだん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%80%A4%E6%AE%B5">値段</a></b></h3>
+            <p align="center">つかまえる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8D%95%E3%81%BE%E3%81%88%E3%82%8B">捕まえる</a></b></h3>
             <hr>
-            <p align="center">price</p>
+            <p align="center">to catch,<wbr> to arrest</p>
         </td>
         <td>
-            <p align="center">がいこく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A4%96%E5%9B%BD">外国</a></b></h3>
+            <p align="center">～がつ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E6%9C%88">～月</a></b></h3>
             <hr>
-            <p align="center">foreign country;<br> abroad</p>
+            <p align="center">month of year</p>
         </td>
     </tr>
 </table>
