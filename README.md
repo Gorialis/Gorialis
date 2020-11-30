@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **01:23 UTC, 2020-11-30**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **02:07 UTC, 2020-11-30**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ナンセンス</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9">ナンセンス</a></b></h3>
+            <p align="center">しょち</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%87%A6%E7%BD%AE">処置</a></b></h3>
             <hr>
-            <p align="center">nonsense</p>
+            <p align="center">treatment</p>
         </td>
         <td>
-            <p align="center">じゅうやく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%87%8D%E5%BD%B9">重役</a></b></h3>
+            <p align="center">にちじ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%97%A5%E6%99%82">日時</a></b></h3>
             <hr>
-            <p align="center">director,<wbr> high executive</p>
+            <p align="center">date and time</p>
         </td>
         <td>
-            <p align="center">なか</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BB%B2">仲</a></b></h3>
+            <p align="center">くむ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%85%8C%E3%82%80">酌む</a></b></h3>
             <hr>
-            <p align="center">relation,<wbr> relationship</p>
+            <p align="center">to serve sake</p>
         </td>
         <td>
-            <p align="center">ちり</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9C%B0%E7%90%86">地理</a></b></h3>
+            <p align="center">はらう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%89%95%E3%81%86">払う</a></b></h3>
             <hr>
-            <p align="center">geography</p>
+            <p align="center">to pay</p>
         </td>
         <td>
-            <p align="center">に</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BA%8C">二</a></b></h3>
+            <p align="center">やさい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%87%8E%E8%8F%9C">野菜</a></b></h3>
             <hr>
-            <p align="center">two</p>
+            <p align="center">vegetable</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕐  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕑  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -77,5 +77,5 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [██████████████████▁▁] 91.27%</code></pre>
+<pre><code>2020 [██████████████████▁▁] 91.28%</code></pre>
 </details>
