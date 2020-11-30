@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **21:05 UTC, 2020-11-30**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **21:20 UTC, 2020-11-30**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,39 +30,40 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ほげい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8D%95%E9%AF%A8">捕鯨</a></b></h3>
+            <p align="center">てびき</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%89%8B%E5%BC%95">手引</a></b></h3>
             <hr>
-            <p align="center">whaling</p>
+            <p align="center">guidance,<wbr> guide,<wbr> introduction</p>
         </td>
         <td>
-            <p align="center">にじ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%99%B9">虹</a></b></h3>
+            <p align="center">ながびく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%95%B7%E5%BC%95%E3%81%8F">長引く</a></b></h3>
             <hr>
-            <p align="center">rainbow</p>
+            <p align="center">to be prolonged,<wbr> to drag on</p>
         </td>
         <td>
-            <p align="center">かかく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BE%A1%E6%A0%BC">価格</a></b></h3>
+            <p align="center">こんなに</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%93%E3%82%93%E3%81%AA%E3%81%AB">こんなに</a></b></h3>
             <hr>
-            <p align="center">price,<wbr> value</p>
+            <p align="center">so,<wbr> like this,<wbr> in this way</p>
         </td>
         <td>
-            <p align="center">格好</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%86">かっこう</a></b></h3>
+            <p align="center">うん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%86%E3%82%93">うん</a></b></h3>
             <hr>
-            <p align="center">appearance,<wbr> manner,<wbr> shape,<wbr> form,<wbr> posture</p>
+            <p align="center">yes (informal),<wbr> all right (ok)</p>
         </td>
         <td>
-            <p align="center">わかる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%88%86%E3%81%8B%E3%82%8B">分かる</a></b></h3>
+            <p align="center">ちょうど</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%81%E5%BA%A6">丁度</a></b></h3>
             <hr>
-            <p align="center">to understand</p>
+            <p align="center">just,<wbr> right,<wbr> exactly</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
+🌕 Lunar phase
 <details>
 <summary>🕘  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 

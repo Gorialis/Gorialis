@@ -39,6 +39,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 </table>
 
 <h2>Other things</h2>
+{{ phase_emoji}} Lunar phase
 <details>
 <summary>{{ hour_emoji }}  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 

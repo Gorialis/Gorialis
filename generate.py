@@ -9,7 +9,7 @@ import sys
 from dateutil import relativedelta, tz
 from dateutil.tz import UTC
 
-from readme import fractal, jlpt, now
+from readme import fractal, jlpt, lunar_phase, now
 from readme.templates import get_template
 
 
@@ -56,6 +56,10 @@ jlpt_words = {
     'N5': jlpt.choose_random('n5'),
 }
 
+# Get lunar phase
+LOG.info('Getting lunar phase')
+phase_emoji = lunar_phase.phase_emoji(UTC_NOW)
+
 # Generate LICENSE
 LOG.info('Generating %s', OUTPUT_LICENSE)
 with open(OUTPUT_LICENSE, 'w', encoding='utf-8') as output:
@@ -91,5 +95,6 @@ with open(OUTPUT_README, 'w', encoding='utf-8') as output:
         jlpt_words=jlpt_words,
         now=UTC_NOW,
         percentage_bar=percentage_bar,
+        phase_emoji=phase_emoji,
         year_percentage=year_percentage,
     ))
