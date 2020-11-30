@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **19:04 UTC, 2020-11-30**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **20:06 UTC, 2020-11-30**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">よごれ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B1%9A%E3%82%8C">汚れ</a></b></h3>
+            <p align="center">くぐる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8F%E3%81%90%E3%82%8B">くぐる</a></b></h3>
             <hr>
-            <p align="center">dirt,<wbr> filth</p>
+            <p align="center">to pass through;<br> to go around</p>
         </td>
         <td>
-            <p align="center">じゅうりょう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%87%8D%E9%87%8F">重量</a></b></h3>
+            <p align="center">よろこぶ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%85%B6%E3%81%B6">慶ぶ</a></b></h3>
             <hr>
-            <p align="center">heavyweight</p>
+            <p align="center">to be delighted,<wbr> to be glad</p>
         </td>
         <td>
-            <p align="center">そんちょう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B0%8A%E9%87%8D">尊重</a></b></h3>
+            <p align="center">たいほ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%80%AE%E6%8D%95">逮捕</a></b></h3>
             <hr>
-            <p align="center">respect,<wbr> esteem,<wbr> regard</p>
+            <p align="center">arrest,<wbr> apprehension,<wbr> capture</p>
         </td>
         <td>
-            <p align="center">～がくぶ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E5%AD%A6%E9%83%A8">～学部</a></b></h3>
+            <p align="center">さがす</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8E%A2%E3%81%99">探す</a></b></h3>
             <hr>
-            <p align="center">department of a university</p>
+            <p align="center">to search,<wbr> to seek,<wbr> to look for</p>
         </td>
         <td>
-            <p align="center">テープ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%86%E3%83%BC%E3%83%97">テープ</a></b></h3>
+            <p align="center">みる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%8B%E3%82%8B">見る</a></b></h3>
             <hr>
-            <p align="center">tape</p>
+            <p align="center">to see,<wbr> to look</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕗  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -77,5 +77,5 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [██████████████████▁▁] 91.47%</code></pre>
+<pre><code>2020 [██████████████████▁▁] 91.49%</code></pre>
 </details>
