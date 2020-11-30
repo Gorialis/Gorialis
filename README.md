@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **23:05 UTC, 2020-11-29**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **00:15 UTC, 2020-11-30**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ブル</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%96%E3%83%AB">ブル</a></b></h3>
+            <p align="center">そうさく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8D%9C%E7%B4%A2">捜索</a></b></h3>
             <hr>
-            <p align="center">bull</p>
+            <p align="center">search (esp. for someone or something missing,<wbr> investigation)</p>
         </td>
         <td>
-            <p align="center">くどい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8F%E3%81%A9%E3%81%84">くどい</a></b></h3>
+            <p align="center">かいとう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9B%9E%E7%AD%94">回答</a></b></h3>
             <hr>
-            <p align="center">verbose,<wbr> importunate,<wbr> heavy (taste)</p>
+            <p align="center">reply,<wbr> answer</p>
         </td>
         <td>
-            <p align="center">きみ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B0%97%E5%91%B3">気味</a></b></h3>
+            <p align="center">かくじつ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A2%BA%E5%AE%9F">確実</a></b></h3>
             <hr>
-            <p align="center">-like,<wbr> -looking,<wbr> -looked</p>
+            <p align="center">certainty,<wbr> reliability,<wbr> soundness</p>
         </td>
         <td>
-            <p align="center">パソコン</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3">パソコン</a></b></h3>
+            <p align="center">～まま</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E3%81%BE%E3%81%BE">～まま</a></b></h3>
             <hr>
-            <p align="center">(personal) computer</p>
+            <p align="center">as it is</p>
         </td>
         <td>
-            <p align="center">かたかな</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%89%87%E4%BB%AE%E5%90%8D">片仮名</a></b></h3>
+            <p align="center">はなし</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A9%B1">話</a></b></h3>
             <hr>
-            <p align="center">katakana</p>
+            <p align="center">talk (chat),<wbr> story</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕚  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕛  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -77,5 +77,5 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [██████████████████▁▁] 91.25%</code></pre>
+<pre><code>2020 [██████████████████▁▁] 91.26%</code></pre>
 </details>
