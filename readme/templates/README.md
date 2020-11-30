@@ -39,11 +39,16 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 </table>
 
 <h2>Other things</h2>
-{{ phase_emoji}} Lunar phase
 <details>
 <summary>{{ hour_emoji }}  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
+
+</details>
+<details>
+<summary>{{ phase_emoji }} Lunar phase</summary>
+
+The moon is approximately {{ format(phase * 100, '.2f') }}% through its phase ({{ ["New Moon", "Waxing Crescent", "First Quarter", "Waxing Gibbous", "Full Moon", "Waning Gibbous", "Last Quarter", "Waning Crescent"][round(phase * 8)] }}).
 
 </details>
 <details>

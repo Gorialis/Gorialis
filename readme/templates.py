@@ -14,6 +14,7 @@ ENVIRONMENT = Environment(
 ENVIRONMENT.globals.update(
     format=format,
     quote=quote,
+    round=round,
 )
 
 def get_template(name: str) -> Template:

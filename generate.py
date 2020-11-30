@@ -58,6 +58,7 @@ jlpt_words = {
 
 # Get lunar phase
 LOG.info('Getting lunar phase')
+phase = lunar_phase.calculate_phase(UTC_NOW)
 phase_emoji = lunar_phase.phase_emoji(UTC_NOW)
 
 # Generate LICENSE
@@ -95,6 +96,7 @@ with open(OUTPUT_README, 'w', encoding='utf-8') as output:
         jlpt_words=jlpt_words,
         now=UTC_NOW,
         percentage_bar=percentage_bar,
+        phase=phase,
         phase_emoji=phase_emoji,
         year_percentage=year_percentage,
     ))
