@@ -14,7 +14,8 @@ from readme.templates import get_template
 
 
 OUTPUT_RESOURCES = pathlib.Path('generated')
-OUTPUT_FILE = pathlib.Path('README.md')
+OUTPUT_LICENSE = pathlib.Path('LICENSE')
+OUTPUT_README = pathlib.Path('README.md')
 
 UTC_NOW = datetime.datetime.utcnow().replace(tzinfo=tz.UTC)
 
@@ -55,9 +56,16 @@ jlpt_words = {
     'N5': jlpt.choose_random('n5'),
 }
 
+# Generate LICENSE
+LOG.info('Generating %s', OUTPUT_LICENSE)
+with open(OUTPUT_LICENSE, 'w', encoding='utf-8') as output:
+    output.write(get_template('LICENSE').render(
+        now=UTC_NOW,
+    ))
+
 # Generate README.md
-LOG.info('Generating %s', OUTPUT_FILE)
-with open(OUTPUT_FILE, 'w', encoding='utf-8') as output:
+LOG.info('Generating %s', OUTPUT_README)
+with open(OUTPUT_README, 'w', encoding='utf-8') as output:
 
     # Hour for world clock
     hour = UTC_NOW.hour % 12
