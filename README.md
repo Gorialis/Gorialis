@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **20:31 UTC, 2020-12-01**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **20:34 UTC, 2020-12-01**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,34 +30,34 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">つらねる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%80%A3%E3%81%AD%E3%82%8B">連ねる</a></b></h3>
+            <p align="center">だぶだぶ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%A0%E3%81%B6%E3%81%A0%E3%81%B6">だぶだぶ</a></b></h3>
             <hr>
-            <p align="center">to link,<wbr> to join,<wbr> to put together</p>
+            <p align="center">loose,<wbr> baggy</p>
         </td>
         <td>
-            <p align="center">ようちえん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B9%BC%E7%A8%9A%E5%9C%92">幼稚園</a></b></h3>
+            <p align="center">かざん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%81%AB%E5%B1%B1">火山</a></b></h3>
             <hr>
-            <p align="center">kindergarten</p>
+            <p align="center">volcano</p>
         </td>
         <td>
-            <p align="center">ふく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A6%8F">福</a></b></h3>
+            <p align="center">ぶじ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%84%A1%E4%BA%8B">無事</a></b></h3>
             <hr>
-            <p align="center">good fortune</p>
+            <p align="center">safety,<wbr> peace</p>
         </td>
         <td>
-            <p align="center">のこる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%AE%8B%E3%82%8B">残る</a></b></h3>
+            <p align="center">だいぶ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A4%A7%E5%88%86">大分</a></b></h3>
             <hr>
-            <p align="center">to remain (v.i.),<wbr> to be left</p>
+            <p align="center">fairly well,<wbr> to a large extent,<wbr> considerably,<wbr> pretty much</p>
         </td>
         <td>
-            <p align="center">ふたり</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BA%8C%E4%BA%BA">二人</a></b></h3>
+            <p align="center">テレビ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%86%E3%83%AC%E3%83%93">テレビ</a></b></h3>
             <hr>
-            <p align="center">two people</p>
+            <p align="center">television,<wbr> TV</p>
         </td>
     </tr>
 </table>
