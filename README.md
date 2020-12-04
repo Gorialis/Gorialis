@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **20:05 UTC, 2020-12-04**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **21:05 UTC, 2020-12-04**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,49 +30,49 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">しょざい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%89%80%E5%9C%A8">所在</a></b></h3>
+            <p align="center">あからむ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%B5%A4%E3%82%89%E3%82%80">赤らむ</a></b></h3>
             <hr>
-            <p align="center">whereabouts</p>
+            <p align="center">to become red,<wbr> to blush</p>
         </td>
         <td>
-            <p align="center">にょうぼう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A5%B3%E6%88%BF">女房</a></b></h3>
+            <p align="center">セメント</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%BB%E3%83%A1%E3%83%B3%E3%83%88">セメント</a></b></h3>
             <hr>
-            <p align="center">wife</p>
+            <p align="center">cement</p>
         </td>
         <td>
-            <p align="center">ぞうか</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A2%97%E5%8A%A0">増加</a></b></h3>
+            <p align="center">ひょうばん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A9%95%E5%88%A4">評判</a></b></h3>
             <hr>
-            <p align="center">increase,<wbr> addition</p>
+            <p align="center">fame,<wbr> reputation</p>
         </td>
         <td>
-            <p align="center">～せい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E8%A3%BD">～製</a></b></h3>
+            <p align="center">おこさん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E5%AD%90%E3%81%95%E3%82%93">お子さん</a></b></h3>
             <hr>
-            <p align="center">made in ~</p>
+            <p align="center">(someone else's) child (polite)</p>
         </td>
         <td>
-            <p align="center">つよい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%BC%B7%E3%81%84">強い</a></b></h3>
+            <p align="center">おぼえる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%9A%E3%81%88%E3%82%8B">覚える</a></b></h3>
             <hr>
-            <p align="center">strong,<wbr> powerful</p>
+            <p align="center">to learn,<wbr> to commit to memory,<wbr> to remember,<wbr> to memorize</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕗  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕘  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌖 Lunar phase</summary>
+<summary>🌗 Lunar phase</summary>
 
-The moon is approximately 68.72% through its phase (Waning Gibbous).
+The moon is approximately 68.86% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 68.72% through its phase (Waning Gibbous).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [██████████████████▁▁] 92.58%</code></pre>
+<pre><code>2020 [██████████████████▁▁] 92.59%</code></pre>
 </details>
