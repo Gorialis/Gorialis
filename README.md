@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **18:06 UTC, 2020-12-05**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **19:05 UTC, 2020-12-05**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">おとも</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E4%BE%9B">お供</a></b></h3>
+            <p align="center">ほうむる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%91%AC%E3%82%8B">葬る</a></b></h3>
             <hr>
-            <p align="center">attendant,<wbr> companion</p>
+            <p align="center">to bury,<wbr> to entomb</p>
         </td>
         <td>
-            <p align="center">かそく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8A%A0%E9%80%9F">加速</a></b></h3>
+            <p align="center">ようじ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B9%BC%E5%85%90">幼児</a></b></h3>
             <hr>
-            <p align="center">acceleration</p>
+            <p align="center">infant,<wbr> baby,<wbr> child</p>
         </td>
         <td>
-            <p align="center">わるくち</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%82%AA%E5%8F%A3">悪口</a></b></h3>
+            <p align="center">たいする</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AF%BE%E3%81%99%E3%82%8B">対する</a></b></h3>
             <hr>
-            <p align="center">abuse,<wbr> insult</p>
+            <p align="center">to face,<wbr> to confront,<wbr> to oppose</p>
         </td>
         <td>
-            <p align="center">したぎ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%8B%E7%9D%80">下着</a></b></h3>
+            <p align="center">プレゼント</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88">プレゼント</a></b></h3>
             <hr>
-            <p align="center">underwear</p>
+            <p align="center">present,<wbr> gift</p>
         </td>
         <td>
-            <p align="center">はる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%B2%BC%E3%82%8B">貼る</a></b></h3>
+            <p align="center">ちがう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%81%95%E3%81%86">違う</a></b></h3>
             <hr>
-            <p align="center">to post;<br> to paste;<br> to attach</p>
+            <p align="center">to be different;<br> to differ;<br> wrong</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕕  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 71.82% through its phase (Last Quarter).
+The moon is approximately 71.96% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 71.82% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [██████████████████▁▁] 92.83%</code></pre>
+<pre><code>2020 [██████████████████▁▁] 92.84%</code></pre>
 </details>
