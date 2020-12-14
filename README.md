@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **01:38 UTC, 2020-12-14**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **02:17 UTC, 2020-12-14**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,49 +30,49 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ちゃっこう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%9D%80%E5%B7%A5">着工</a></b></h3>
+            <p align="center">みはからう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%8B%E8%A8%88%E3%82%89%E3%81%86">見計らう</a></b></h3>
             <hr>
-            <p align="center">start of (construction) work</p>
+            <p align="center">to choose at one's own discretion</p>
         </td>
         <td>
-            <p align="center">ぞうせん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%80%A0%E8%88%B9">造船</a></b></h3>
+            <p align="center">ぶんけん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%96%87%E7%8C%AE">文献</a></b></h3>
             <hr>
-            <p align="center">shipbuilding</p>
+            <p align="center">literature,<wbr> books (reference)</p>
         </td>
         <td>
-            <p align="center">さくら</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%A1%9C">桜</a></b></h3>
+            <p align="center">たいした</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A4%A7%E3%81%97%E3%81%9F">大した</a></b></h3>
             <hr>
-            <p align="center">cherry blossom,<wbr> cherry tree</p>
+            <p align="center">significant,<wbr> great,<wbr> considerable</p>
         </td>
         <td>
-            <p align="center">いらっしゃる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B">いらっしゃる</a></b></h3>
+            <p align="center">あいだ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%96%93">間</a></b></h3>
             <hr>
-            <p align="center">-- honorific expression for いく,<wbr> くる,<wbr> and いる --</p>
+            <p align="center">space,<wbr> interval</p>
         </td>
         <td>
-            <p align="center">ニュース</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9">ニュース</a></b></h3>
+            <p align="center">ひゃく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%99%BE">百</a></b></h3>
             <hr>
-            <p align="center">news</p>
+            <p align="center">hundred</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕐  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕑  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌙 Lunar phase</summary>
+<summary>🌑 Lunar phase</summary>
 
-The moon is approximately 99.97% through its phase ().
+The moon is approximately 0.07% through its phase (New Moon).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 99.97% through its phase ().
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [███████████████████▁] 95.10%</code></pre>
+<pre><code>2020 [███████████████████▁] 95.11%</code></pre>
 </details>
