@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **10:07 UTC, 2020-12-16**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **11:06 UTC, 2020-12-16**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ダンプ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%80%E3%83%B3%E3%83%97">ダンプ</a></b></h3>
+            <p align="center">しか</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%AD%AF%E7%A7%91">歯科</a></b></h3>
             <hr>
-            <p align="center">dump truck</p>
+            <p align="center">dentistry</p>
         </td>
         <td>
-            <p align="center">とうげ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B3%A0">峠</a></b></h3>
+            <p align="center">かれる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%9E%AF%E3%82%8C%E3%82%8B">枯れる</a></b></h3>
             <hr>
-            <p align="center">ridge,<wbr> (mountain) pass,<wbr> difficult part</p>
+            <p align="center">to wither,<wbr> to die (plant),<wbr> to be blasted (plant)</p>
         </td>
         <td>
-            <p align="center">うわさ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%99%82">噂</a></b></h3>
+            <p align="center">かわ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B2%B3">河</a></b></h3>
             <hr>
-            <p align="center">rumor,<wbr> gossip</p>
+            <p align="center">river,<wbr> stream</p>
         </td>
         <td>
-            <p align="center">うら</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A3%8F">裏</a></b></h3>
+            <p align="center">ちゅうい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B3%A8%E6%84%8F">注意</a></b></h3>
             <hr>
-            <p align="center">reverse side,<wbr> back</p>
+            <p align="center">caution,<wbr> attention</p>
         </td>
         <td>
-            <p align="center">たくさん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B2%A2%E5%B1%B1">沢山</a></b></h3>
+            <p align="center">いつも</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%84%E3%81%A4%E3%82%82">いつも</a></b></h3>
             <hr>
-            <p align="center">many,<wbr> much</p>
+            <p align="center">always,<wbr> usually,<wbr> every time,<wbr> never (with neg. verb)</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕙  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕚  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌒 Lunar phase</summary>
 
-The moon is approximately 7.95% through its phase (Waxing Crescent).
+The moon is approximately 8.09% through its phase (Waxing Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 7.95% through its phase (Waxing Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [███████████████████▁] 95.74%</code></pre>
+<pre><code>2020 [███████████████████▁] 95.75%</code></pre>
 </details>
