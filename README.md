@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **18:26 UTC, 2020-12-28**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **19:21 UTC, 2020-12-28**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ふかけつ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%8D%E5%8F%AF%E6%AC%A0">不可欠</a></b></h3>
+            <p align="center">うまれつき</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A4%E3%81%8D">生まれつき</a></b></h3>
             <hr>
-            <p align="center">indispensable,<wbr> essential</p>
+            <p align="center">by nature,<wbr> by birth,<wbr> native</p>
         </td>
         <td>
-            <p align="center">すき</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9A%99">隙</a></b></h3>
+            <p align="center">へこむ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%87%B9%E3%82%80">凹む</a></b></h3>
             <hr>
-            <p align="center">unguarded moment,<wbr> chance</p>
+            <p align="center">to be dented,<wbr> to be indented</p>
         </td>
         <td>
-            <p align="center">さからう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%80%86%E3%82%89%E3%81%86">逆らう</a></b></h3>
+            <p align="center">こうかん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BA%A4%E6%8F%9B">交換</a></b></h3>
             <hr>
-            <p align="center">to go against,<wbr> to oppose,<wbr> to disobey</p>
+            <p align="center">exchange,<wbr> swap</p>
         </td>
         <td>
-            <p align="center">ガラス</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%AC%E3%83%A9%E3%82%B9">ガラス</a></b></h3>
+            <p align="center">れいぼう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%86%B7%E6%88%BF">冷房</a></b></h3>
             <hr>
-            <p align="center">glass,<wbr> pane</p>
+            <p align="center">cooling,<wbr> air conditioning</p>
         </td>
         <td>
-            <p align="center">かいだん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9A%8E%E6%AE%B5">階段</a></b></h3>
+            <p align="center">ある</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9C%A8%E3%82%8B">在る</a></b></h3>
             <hr>
-            <p align="center">stairs</p>
+            <p align="center">to be,<wbr> to have</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕕  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌕 Lunar phase</summary>
 
-The moon is approximately 49.75% through its phase (Full Moon).
+The moon is approximately 49.89% through its phase (Full Moon).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 49.75% through its phase (Full Moon).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2020 [███████████████████▁] 99.12%</code></pre>
+<pre><code>2020 [███████████████████▁] 99.13%</code></pre>
 </details>
