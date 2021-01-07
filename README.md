@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **12:13 UTC, 2021-01-07**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **13:27 UTC, 2021-01-07**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">じん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%99%A3">陣</a></b></h3>
+            <p align="center">きょうぐう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A2%83%E9%81%87">境遇</a></b></h3>
             <hr>
-            <p align="center">battle formation,<wbr> camp,<wbr> encampment</p>
+            <p align="center">environment,<wbr> circumstances</p>
         </td>
         <td>
-            <p align="center">のうやく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%BE%B2%E8%96%AC">農薬</a></b></h3>
+            <p align="center">カバー</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%AB%E3%83%90%E3%83%BC">カバー</a></b></h3>
             <hr>
-            <p align="center">agricultural chemicals</p>
+            <p align="center">cover (e.g.,<wbr> book)</p>
         </td>
         <td>
-            <p align="center">あげる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8C%99%E3%81%92%E3%82%8B">挙げる</a></b></h3>
+            <p align="center">いっしゅ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%80%E7%A8%AE">一種</a></b></h3>
             <hr>
-            <p align="center">to raise;<br> to list,<wbr> to cite</p>
+            <p align="center">a species,<wbr> a kind,<wbr> a variety</p>
         </td>
         <td>
-            <p align="center">かがく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A7%91%E5%AD%A6">科学</a></b></h3>
+            <p align="center">ごしゅじん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%94%E4%B8%BB%E4%BA%BA">ご主人</a></b></h3>
             <hr>
-            <p align="center">science</p>
+            <p align="center">(your,<wbr> her) husband</p>
         </td>
         <td>
-            <p align="center">ねる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AF%9D%E3%82%8B">寝る</a></b></h3>
+            <p align="center">さいふ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%B2%A1%E5%B8%83">財布</a></b></h3>
             <hr>
-            <p align="center">to sleep;<br> to go to sleep;<br> to go to bed</p>
+            <p align="center">wallet</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕛  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕐  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌘 Lunar phase</summary>
 
-The moon is approximately 82.74% through its phase (Waning Crescent).
+The moon is approximately 82.91% through its phase (Waning Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 82.74% through its phase (Waning Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 1.78%</code></pre>
+<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 1.80%</code></pre>
 </details>
