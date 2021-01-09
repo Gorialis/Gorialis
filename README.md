@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **07:24 UTC, 2021-01-09**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **08:19 UTC, 2021-01-09**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">けつだん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B1%BA%E6%96%AD">決断</a></b></h3>
+            <p align="center">ちょう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%85%B8">腸</a></b></h3>
             <hr>
-            <p align="center">decision,<wbr> determination</p>
+            <p align="center">bowels,<wbr> intestines</p>
         </td>
         <td>
-            <p align="center">ちかづける</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%BF%91%E4%BB%98%E3%81%91%E3%82%8B">近付ける</a></b></h3>
+            <p align="center">なでる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%92%AB%E3%81%A7%E3%82%8B">撫でる</a></b></h3>
             <hr>
-            <p align="center">to bring near,<wbr> to put close,<wbr> to let come near</p>
+            <p align="center">to brush gently,<wbr> to stroke</p>
         </td>
         <td>
-            <p align="center">であう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%87%BA%E4%BC%9A%E3%81%86">出会う</a></b></h3>
+            <p align="center">ぜん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A6%85">禅</a></b></h3>
             <hr>
-            <p align="center">to meet by chance,<wbr> to come across,<wbr> to happen to encounter</p>
+            <p align="center">Zen (Buddhism)</p>
         </td>
         <td>
-            <p align="center">まける</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%B2%A0%E3%81%91%E3%82%8B">負ける</a></b></h3>
+            <p align="center">いきる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%94%9F%E3%81%8D%E3%82%8B">生きる</a></b></h3>
             <hr>
-            <p align="center">to lose (a game) (v.i.),<wbr> to be defeated</p>
+            <p align="center">to live</p>
         </td>
         <td>
-            <p align="center">やる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%84%E3%82%8B">やる</a></b></h3>
+            <p align="center">よっか</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9B%9B%E6%97%A5">四日</a></b></h3>
             <hr>
-            <p align="center">to do;<br> to give (to pets,<wbr> parents,<wbr> siblings,<wbr> etc.)</p>
+            <p align="center">four days;<br> fourth day of the month</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕗  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌘 Lunar phase</summary>
 
-The moon is approximately 88.84% through its phase (Waning Crescent).
+The moon is approximately 88.96% through its phase (Waning Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 88.84% through its phase (Waning Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.28%</code></pre>
+<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.29%</code></pre>
 </details>
