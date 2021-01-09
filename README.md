@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **04:29 UTC, 2021-01-09**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **05:29 UTC, 2021-01-09**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">しょち</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%87%A6%E7%BD%AE">処置</a></b></h3>
+            <p align="center">ひらたい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B9%B3%E3%81%9F%E3%81%84">平たい</a></b></h3>
             <hr>
-            <p align="center">treatment</p>
+            <p align="center">flat,<wbr> even,<wbr> level</p>
         </td>
         <td>
-            <p align="center">てんてん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%BB%A2%E3%80%85">転々</a></b></h3>
+            <p align="center">そんとく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%90%8D%E5%BE%97">損得</a></b></h3>
             <hr>
-            <p align="center">from one to another</p>
+            <p align="center">loss and gain,<wbr> advantage and disadvantage</p>
         </td>
         <td>
-            <p align="center">そん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%90%8D">損</a></b></h3>
+            <p align="center">ふ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%8D">不</a></b></h3>
             <hr>
-            <p align="center">loss,<wbr> disadvantage</p>
+            <p align="center">un(~),<wbr> non(~),<wbr> negative prefix</p>
         </td>
         <td>
-            <p align="center">よう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%94%A8">用</a></b></h3>
+            <p align="center">いけん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%84%8F%E8%A6%8B">意見</a></b></h3>
             <hr>
-            <p align="center">errand,<wbr> task,<wbr> business (to take care of)</p>
+            <p align="center">opinion,<wbr> view,<wbr> idea</p>
         </td>
         <td>
-            <p align="center">つめたい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%86%B7%E3%81%9F%E3%81%84">冷たい</a></b></h3>
+            <p align="center">のみもの</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%A3%B2%E3%81%BF%E7%89%A9">飲み物</a></b></h3>
             <hr>
-            <p align="center">cold (things,<wbr> people)</p>
+            <p align="center">drink,<wbr> beverage</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕔  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌘 Lunar phase</summary>
 
-The moon is approximately 88.42% through its phase (Waning Crescent).
+The moon is approximately 88.56% through its phase (Waning Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 88.42% through its phase (Waning Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.24%</code></pre>
+<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.25%</code></pre>
 </details>
