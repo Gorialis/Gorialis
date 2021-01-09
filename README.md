@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **21:12 UTC, 2021-01-09**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **22:17 UTC, 2021-01-09**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">とうこう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%99%BB%E6%A0%A1">登校</a></b></h3>
+            <p align="center">おごる (ゆうしょくを～)</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E3%81%94%E3%82%8B%20%28%E3%82%86%E3%81%86%E3%81%97%E3%82%87%E3%81%8F%E3%82%92%EF%BD%9E%29">おごる (ゆうしょくを～)</a></b></h3>
             <hr>
-            <p align="center">attendance (at school)</p>
+            <p align="center">to give (someone) a treat</p>
         </td>
         <td>
-            <p align="center">ひとまず</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%B2%E3%81%A8%E3%81%BE%E3%81%9A">ひとまず</a></b></h3>
+            <p align="center">ようやく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%BC%B8%E3%81%8F">漸く</a></b></h3>
             <hr>
-            <p align="center">for the present,<wbr> once,<wbr> for the time being</p>
+            <p align="center">at last,<wbr> finally,<wbr> hardly</p>
         </td>
         <td>
-            <p align="center">ユーモア</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2">ユーモア</a></b></h3>
+            <p align="center">みる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A8%BA%E3%82%8B">診る</a></b></h3>
             <hr>
-            <p align="center">humor</p>
+            <p align="center">to examine (a patient)</p>
         </td>
         <td>
-            <p align="center">うん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%86%E3%82%93">うん</a></b></h3>
+            <p align="center">うつる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A7%BB%E3%82%8B">移る</a></b></h3>
             <hr>
-            <p align="center">yes (informal),<wbr> all right (ok)</p>
+            <p align="center">to move (from a house);<br> to transfer (from a department);<br> to shift</p>
         </td>
         <td>
-            <p align="center">はがき</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%91%89%E6%9B%B8">葉書</a></b></h3>
+            <p align="center">しゃしん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%86%99%E7%9C%9F">写真</a></b></h3>
             <hr>
-            <p align="center">postcard</p>
+            <p align="center">a picture;<br> a photograph</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕘  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕙  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌘 Lunar phase</summary>
 
-The moon is approximately 90.78% through its phase (Waning Crescent).
+The moon is approximately 90.93% through its phase (Waning Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 90.78% through its phase (Waning Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.43%</code></pre>
+<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.45%</code></pre>
 </details>
