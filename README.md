@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **19:30 UTC, 2021-01-10**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **20:16 UTC, 2021-01-10**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ふんそう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B4%9B%E4%BA%89">紛争</a></b></h3>
+            <p align="center">いたく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A7%94%E8%A8%97">委託</a></b></h3>
             <hr>
-            <p align="center">dispute,<wbr> trouble,<wbr> strife</p>
+            <p align="center">consign (goods (for sale) to a firm),<wbr> entrust</p>
         </td>
         <td>
-            <p align="center">ひねる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8D%BB%E3%82%8B">捻る</a></b></h3>
+            <p align="center">けわしい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%99%BA%E3%81%97%E3%81%84">険しい</a></b></h3>
             <hr>
-            <p align="center">to twist,<wbr> to turn</p>
+            <p align="center">steep,<wbr> rugged;<br> severe</p>
         </td>
         <td>
-            <p align="center">するどい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%8B%AD%E3%81%84">鋭い</a></b></h3>
+            <p align="center">きんちょう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B7%8A%E5%BC%B5">緊張</a></b></h3>
             <hr>
-            <p align="center">pointed,<wbr> sharp</p>
+            <p align="center">tension,<wbr> mental strain,<wbr> nervousness</p>
         </td>
         <td>
-            <p align="center">せき</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B8%AD">席</a></b></h3>
+            <p align="center">かべ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A3%81">壁</a></b></h3>
             <hr>
-            <p align="center">a seat</p>
+            <p align="center">wall</p>
         </td>
         <td>
-            <p align="center">やる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%84%E3%82%8B">やる</a></b></h3>
+            <p align="center">コップ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%B3%E3%83%83%E3%83%97">コップ</a></b></h3>
             <hr>
-            <p align="center">to do;<br> to give (to pets,<wbr> parents,<wbr> siblings,<wbr> etc.)</p>
+            <p align="center">a tumbler;<br> a glass</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕗  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌙 Lunar phase</summary>
 
-The moon is approximately 93.93% through its phase ().
+The moon is approximately 94.04% through its phase ().
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 93.93% through its phase ().
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.69%</code></pre>
+<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 2.70%</code></pre>
 </details>
