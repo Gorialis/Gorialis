@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **14:27 UTC, 2021-01-16**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **15:19 UTC, 2021-01-16**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">どだい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9C%9F%E5%8F%B0">土台</a></b></h3>
+            <p align="center">おしむ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%83%9C%E3%81%97%E3%82%80">惜しむ</a></b></h3>
             <hr>
-            <p align="center">foundation,<wbr> base,<wbr> basis</p>
+            <p align="center">to be frugal,<wbr> to value,<wbr> to regret</p>
         </td>
         <td>
-            <p align="center">はやくち</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%97%A9%E5%8F%A3">早口</a></b></h3>
+            <p align="center">マラソン</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3">マラソン</a></b></h3>
             <hr>
-            <p align="center">fast-talking</p>
+            <p align="center">marathon</p>
         </td>
         <td>
-            <p align="center">かんりょう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AE%98%E5%83%9A">官僚</a></b></h3>
+            <p align="center">いがい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%84%8F%E5%A4%96">意外</a></b></h3>
             <hr>
-            <p align="center">bureaucrat,<wbr> bureaucracy</p>
+            <p align="center">unexpected,<wbr> surprising</p>
         </td>
         <td>
-            <p align="center">なくなる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%84%A1%E3%81%8F%E3%81%AA%E3%82%8B">無くなる</a></b></h3>
+            <p align="center">おと</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9F%B3">音</a></b></h3>
             <hr>
-            <p align="center">to disappear,<wbr> to get lost</p>
+            <p align="center">sound,<wbr> note</p>
         </td>
         <td>
-            <p align="center">まんねんひつ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%87%E5%B9%B4%E7%AD%86">万年筆</a></b></h3>
+            <p align="center">きる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%88%87%E3%82%8B">切る</a></b></h3>
             <hr>
-            <p align="center">fountain pen</p>
+            <p align="center">to cut;<br> to hang up (a phone)</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕑  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕒  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌒 Lunar phase</summary>
 
-The moon is approximately 13.53% through its phase (Waxing Crescent).
+The moon is approximately 13.65% through its phase (Waxing Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 13.53% through its phase (Waxing Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 4.27%</code></pre>
+<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 4.28%</code></pre>
 </details>
