@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **09:35 UTC, 2021-01-17**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **10:35 UTC, 2021-01-17**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">となえる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%94%B1%E3%81%88%E3%82%8B">唱える</a></b></h3>
+            <p align="center">せいしょ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%81%96%E6%9B%B8">聖書</a></b></h3>
             <hr>
-            <p align="center">to recite,<wbr> to chant,<wbr> to call upon</p>
+            <p align="center">Bible</p>
         </td>
         <td>
-            <p align="center">レインコート</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%88">レインコート</a></b></h3>
+            <p align="center">へいき</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B9%B3%E6%B0%97">平気</a></b></h3>
             <hr>
-            <p align="center">raincoat</p>
+            <p align="center">coolness,<wbr> calmness,<wbr> unconcern</p>
         </td>
         <td>
-            <p align="center">おもいで</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%80%9D%E3%81%84%E5%87%BA">思い出</a></b></h3>
+            <p align="center">とうさん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%80%92%E7%94%A3">倒産</a></b></h3>
             <hr>
-            <p align="center">memories,<wbr> recollections,<wbr> reminiscence</p>
+            <p align="center">(corporate) bankruptcy,<wbr> insolvency</p>
         </td>
         <td>
-            <p align="center">ひどい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%B2%E3%81%A9%E3%81%84">ひどい</a></b></h3>
+            <p align="center">まにあう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%96%93%E3%81%AB%E5%90%88%E3%81%86">間に合う</a></b></h3>
             <hr>
-            <p align="center">terrible,<wbr> awful,<wbr> unfair,<wbr> cruel</p>
+            <p align="center">to be in time for</p>
         </td>
         <td>
-            <p align="center">そう; そうです</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%9D%E3%81%86%3B%20%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99">そう; そうです</a></b></h3>
+            <p align="center">～さん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E3%81%95%E3%82%93">～さん</a></b></h3>
             <hr>
-            <p align="center">yes;<br> appears,<wbr> to be the case</p>
+            <p align="center">Mr. ~,<wbr> Ms. ~</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕘  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕙  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌒 Lunar phase</summary>
 
-The moon is approximately 16.23% through its phase (Waxing Crescent).
+The moon is approximately 16.37% through its phase (Waxing Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 16.23% through its phase (Waxing Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 4.49%</code></pre>
+<pre><code>2021 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 4.50%</code></pre>
 </details>
