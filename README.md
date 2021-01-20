@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **06:34 UTC, 2021-01-20**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **07:41 UTC, 2021-01-20**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ゆうりょく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%9C%89%E5%8A%9B">有力</a></b></h3>
+            <p align="center">うかる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8F%97%E3%81%8B%E3%82%8B">受かる</a></b></h3>
             <hr>
-            <p align="center">influence,<wbr> prominence;<br> potent</p>
+            <p align="center">to pass (examination)</p>
         </td>
         <td>
-            <p align="center">ぼっちゃん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9D%8A%E3%81%A3%E3%81%A1%E3%82%83%E3%82%93">坊っちゃん</a></b></h3>
+            <p align="center">みのる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AE%9F%E3%82%8B">実る</a></b></h3>
             <hr>
-            <p align="center">son (of others)</p>
+            <p align="center">to bear fruit,<wbr> to ripen</p>
         </td>
         <td>
-            <p align="center">とくちょう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%89%B9%E5%BE%B4">特徴</a></b></h3>
+            <p align="center">きげん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%9C%9F%E9%99%90">期限</a></b></h3>
             <hr>
-            <p align="center">characteristic(s);<br> feature(s);<br> trait(s)</p>
+            <p align="center">deadline,<wbr> term</p>
         </td>
         <td>
-            <p align="center">けいかくする</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A8%88%E7%94%BB">計画</a></b></h3>
+            <p align="center">きせつ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AD%A3%E7%AF%80">季節</a></b></h3>
             <hr>
-            <p align="center">plan,<wbr> project,<wbr> schedule</p>
+            <p align="center">season (in reference to weather)</p>
         </td>
         <td>
-            <p align="center">ホテル</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%9B%E3%83%86%E3%83%AB">ホテル</a></b></h3>
+            <p align="center">がくせい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AD%A6%E7%94%9F">学生</a></b></h3>
             <hr>
-            <p align="center">hotel</p>
+            <p align="center">student</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕕  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌓 Lunar phase</summary>
 
-The moon is approximately 25.97% through its phase (First Quarter).
+The moon is approximately 26.12% through its phase (First Quarter).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 25.97% through its phase (First Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 5.28%</code></pre>
+<pre><code>2021 [█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 5.29%</code></pre>
 </details>
