@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **04:51 UTC, 2021-01-25**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **05:41 UTC, 2021-01-25**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">しゅかん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%BB%E8%A6%B3">主観</a></b></h3>
+            <p align="center">ほうりこむ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%94%BE%E3%82%8A%E8%BE%BC%E3%82%80">放り込む</a></b></h3>
             <hr>
-            <p align="center">subjectivity,<wbr> subject,<wbr> ego</p>
+            <p align="center">to throw into</p>
         </td>
         <td>
-            <p align="center">きぐ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%99%A8%E5%85%B7">器具</a></b></h3>
+            <p align="center">ちぢむ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B8%AE%E3%82%80">縮む</a></b></h3>
             <hr>
-            <p align="center">instrument</p>
+            <p align="center">to shrink,<wbr> to be contracted</p>
         </td>
         <td>
-            <p align="center">のうりょく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%83%BD%E5%8A%9B">能力</a></b></h3>
+            <p align="center">かくれる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9A%A0%E3%82%8C%E3%82%8B">隠れる</a></b></h3>
             <hr>
-            <p align="center">ability,<wbr> faculty</p>
+            <p align="center">to hide,<wbr> to be hidden</p>
         </td>
         <td>
-            <p align="center">～まま</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E3%81%BE%E3%81%BE">～まま</a></b></h3>
+            <p align="center">それで</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%9D%E3%82%8C%E3%81%A7">それで</a></b></h3>
             <hr>
-            <p align="center">as it is</p>
+            <p align="center">and (conj.),<wbr> thereupon,<wbr> because of that</p>
         </td>
         <td>
-            <p align="center">ぼうし</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B8%BD%E5%AD%90">帽子</a></b></h3>
+            <p align="center">なか</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%AD">中</a></b></h3>
             <hr>
-            <p align="center">hat;<br> cap</p>
+            <p align="center">inside,<wbr> middle,<wbr> among</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕔  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌔 Lunar phase</summary>
 
-The moon is approximately 42.65% through its phase (Waxing Gibbous).
+The moon is approximately 42.77% through its phase (Waxing Gibbous).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 42.65% through its phase (Waxing Gibbous).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 6.63%</code></pre>
+<pre><code>2021 [█▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 6.64%</code></pre>
 </details>
