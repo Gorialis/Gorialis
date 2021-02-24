@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **04:06 UTC, 2021-02-24**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **05:05 UTC, 2021-02-24**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ちゃくしゅ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%9D%80%E6%89%8B">着手</a></b></h3>
+            <p align="center">ストライキ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AD">ストライキ</a></b></h3>
             <hr>
-            <p align="center">embarkation,<wbr> launch</p>
+            <p align="center">strike</p>
         </td>
         <td>
-            <p align="center">あみもの</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B7%A8%E3%81%BF%E7%89%A9">編み物</a></b></h3>
+            <p align="center">とうげ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B3%A0">峠</a></b></h3>
             <hr>
-            <p align="center">knitting</p>
+            <p align="center">ridge,<wbr> (mountain) pass,<wbr> difficult part</p>
         </td>
         <td>
-            <p align="center">とう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%A3%9F">棟</a></b></h3>
+            <p align="center">いどう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A7%BB%E5%8B%95">移動</a></b></h3>
             <hr>
-            <p align="center">ridge (of roof</p>
+            <p align="center">migration,<wbr> movement</p>
         </td>
         <td>
-            <p align="center">～だい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E4%BB%A3">～代</a></b></h3>
+            <p align="center">ことり</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B0%8F%E9%B3%A5">小鳥</a></b></h3>
             <hr>
-            <p align="center">~ age;<br> period</p>
+            <p align="center">small bird</p>
         </td>
         <td>
-            <p align="center">て</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%89%8B">手</a></b></h3>
+            <p align="center">おふろ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E9%A2%A8%E5%91%82">お風呂</a></b></h3>
             <hr>
-            <p align="center">hand</p>
+            <p align="center">a bath</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕔  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌕 Lunar phase</summary>
 
-The moon is approximately 44.14% through its phase (Full Moon).
+The moon is approximately 44.28% through its phase (Full Moon).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 44.14% through its phase (Full Moon).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 14.84%</code></pre>
+<pre><code>2021 [██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 14.85%</code></pre>
 </details>
