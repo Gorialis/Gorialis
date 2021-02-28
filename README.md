@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **15:05 UTC, 2021-02-28**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **16:10 UTC, 2021-02-28**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">しや</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%96%E9%87%8E">視野</a></b></h3>
+            <p align="center">うまれつき</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A4%E3%81%8D">生まれつき</a></b></h3>
             <hr>
-            <p align="center">field of vision,<wbr> outlook</p>
+            <p align="center">by nature,<wbr> by birth,<wbr> native</p>
         </td>
         <td>
-            <p align="center">ぶつぶつ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%B6%E3%81%A4%E3%81%B6%E3%81%A4">ぶつぶつ</a></b></h3>
+            <p align="center">ラッシュアワー</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%AF%E3%83%BC">ラッシュアワー</a></b></h3>
             <hr>
-            <p align="center">grumbling,<wbr> complaining in a small voice</p>
+            <p align="center">rush hour</p>
         </td>
         <td>
-            <p align="center">いりょう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8C%BB%E7%99%82">医療</a></b></h3>
+            <p align="center">とける</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%BA%B6%E3%81%91%E3%82%8B">溶ける</a></b></h3>
             <hr>
-            <p align="center">medical care,<wbr> medical treatment</p>
+            <p align="center">to melt,<wbr> to thaw,<wbr> to dissolve</p>
         </td>
         <td>
-            <p align="center">このごろ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%93%E3%81%AE%E9%A0%83">この頃</a></b></h3>
+            <p align="center">かいぎしつ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BC%9A%E8%AD%B0%E5%AE%A4">会議室</a></b></h3>
             <hr>
-            <p align="center">these days,<wbr> nowadays</p>
+            <p align="center">conference room</p>
         </td>
         <td>
-            <p align="center">ください</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%8B%E3%81%95%E3%81%84">下さい</a></b></h3>
+            <p align="center">でる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%87%BA%E3%82%8B">出る</a></b></h3>
             <hr>
-            <p align="center">(with te-form verb) please do for me</p>
+            <p align="center">to appear,<wbr> to leave</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕒  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌖 Lunar phase</summary>
 
-The moon is approximately 59.24% through its phase (Waning Gibbous).
+The moon is approximately 59.39% through its phase (Waning Gibbous).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 59.24% through its phase (Waning Gibbous).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 16.06%</code></pre>
+<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 16.08%</code></pre>
 </details>
