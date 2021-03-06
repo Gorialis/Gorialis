@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **14:06 UTC, 2021-03-06**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **15:06 UTC, 2021-03-06**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">おり</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8A%98">折</a></b></h3>
+            <p align="center">はじ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%81%A5">恥</a></b></h3>
             <hr>
-            <p align="center">chance,<wbr> occasion</p>
+            <p align="center">shame,<wbr> embarrassment</p>
         </td>
         <td>
-            <p align="center">らくだい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%90%BD%E7%AC%AC">落第</a></b></h3>
+            <p align="center">いてん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A7%BB%E8%BB%A2">移転</a></b></h3>
             <hr>
-            <p align="center">failure,<wbr> dropping out of a class</p>
+            <p align="center">moving,<wbr> transfer</p>
         </td>
         <td>
-            <p align="center">おうえん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%BF%9C%E6%8F%B4">応援</a></b></h3>
+            <p align="center">じたい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%BE%9E%E9%80%80">辞退</a></b></h3>
             <hr>
-            <p align="center">aid,<wbr> assistance,<wbr> help</p>
+            <p align="center">refusal</p>
         </td>
         <td>
-            <p align="center">ふね</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%88%9F">舟</a></b></h3>
+            <p align="center">せんぱい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%85%88%E8%BC%A9">先輩</a></b></h3>
             <hr>
-            <p align="center">ship,<wbr> boat</p>
+            <p align="center">senior members of a group</p>
         </td>
         <td>
-            <p align="center">ざっし</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9B%91%E8%AA%8C">雑誌</a></b></h3>
+            <p align="center">もっと</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%82%E3%81%A3%E3%81%A8">もっと</a></b></h3>
             <hr>
-            <p align="center">magazine,<wbr> journal</p>
+            <p align="center">more</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕑  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕒  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 79.41% through its phase (Last Quarter).
+The moon is approximately 79.55% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 79.41% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 17.70%</code></pre>
+<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 17.71%</code></pre>
 </details>
