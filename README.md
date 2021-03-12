@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **15:11 UTC, 2021-03-12**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **16:15 UTC, 2021-03-12**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,49 +30,49 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">いちどう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%80%E5%90%8C">一同</a></b></h3>
+            <p align="center">ぶもん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%83%A8%E9%96%80">部門</a></b></h3>
             <hr>
-            <p align="center">all present,<wbr> all concerned,<wbr> all of us</p>
+            <p align="center">class,<wbr> group,<wbr> category,<wbr> department,<wbr> field,<wbr> branch</p>
         </td>
         <td>
-            <p align="center">きごう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A8%98%E5%8F%B7">記号</a></b></h3>
+            <p align="center">ちじん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%9F%A5%E4%BA%BA">知人</a></b></h3>
             <hr>
-            <p align="center">symbol,<wbr> code</p>
+            <p align="center">friend,<wbr> acquaintance</p>
         </td>
         <td>
-            <p align="center">しんぞう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%BF%83%E8%87%93">心臓</a></b></h3>
+            <p align="center">ばいう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%A2%85%E9%9B%A8">梅雨</a></b></h3>
             <hr>
-            <p align="center">heart</p>
+            <p align="center">rainy season</p>
         </td>
         <td>
-            <p align="center">～けん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E8%BB%92">～軒</a></b></h3>
+            <p align="center">こたえ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%AD%94">答</a></b></h3>
             <hr>
-            <p align="center">counter for houses</p>
+            <p align="center">answer,<wbr> response</p>
         </td>
         <td>
-            <p align="center">はれる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%99%B4%E3%82%8C%E3%82%8B">晴れる</a></b></h3>
+            <p align="center">ご</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BA%94">五</a></b></h3>
             <hr>
-            <p align="center">to be sunny</p>
+            <p align="center">five</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕒  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌙 Lunar phase</summary>
+<summary>🌑 Lunar phase</summary>
 
-The moon is approximately 99.88% through its phase ().
+The moon is approximately 0.04% through its phase (New Moon).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 99.88% through its phase ().
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 19.35%</code></pre>
+<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 19.36%</code></pre>
 </details>
