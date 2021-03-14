@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **12:08 UTC, 2021-03-14**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **13:10 UTC, 2021-03-14**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,49 +30,49 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ガレージ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%AC%E3%83%AC%E3%83%BC%E3%82%B8">ガレージ</a></b></h3>
+            <p align="center">じょうやく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%9D%A1%E7%B4%84">条約</a></b></h3>
             <hr>
-            <p align="center">garage (at house)</p>
+            <p align="center">treaty,<wbr> pact</p>
         </td>
         <td>
-            <p align="center">～どう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E9%81%93">～道</a></b></h3>
+            <p align="center">びんせん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BE%BF%E7%AE%8B">便箋</a></b></h3>
             <hr>
-            <p align="center">kind of path,<wbr> road</p>
+            <p align="center">writing paper,<wbr> stationery</p>
         </td>
         <td>
-            <p align="center">なぞ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%AC%8E">謎</a></b></h3>
+            <p align="center">しゅうちゅう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9B%86%E4%B8%AD">集中</a></b></h3>
             <hr>
-            <p align="center">riddle,<wbr> puzzle,<wbr> enigma</p>
+            <p align="center">concentration,<wbr> focusing the mind</p>
         </td>
         <td>
-            <p align="center">どうぶつえん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8B%95%E7%89%A9%E5%9C%92">動物園</a></b></h3>
+            <p align="center">～おき</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E3%81%8A%E3%81%8D">～おき</a></b></h3>
             <hr>
-            <p align="center">zoo</p>
+            <p align="center">after every ~</p>
         </td>
         <td>
-            <p align="center">おべんとう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E5%BC%81%E5%BD%93">お弁当</a></b></h3>
+            <p align="center">ベッド</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%99%E3%83%83%E3%83%89">ベッド</a></b></h3>
             <hr>
-            <p align="center">a boxed lunch</p>
+            <p align="center">bed</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕛  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕐  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌑 Lunar phase</summary>
+<summary>🌒 Lunar phase</summary>
 
-The moon is approximately 6.23% through its phase (New Moon).
+The moon is approximately 6.37% through its phase (Waxing Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 6.23% through its phase (New Moon).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 19.86%</code></pre>
+<pre><code>2021 [███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 19.88%</code></pre>
 </details>
