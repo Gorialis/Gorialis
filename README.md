@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **15:11 UTC, 2021-03-17**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **16:15 UTC, 2021-03-17**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">そし</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%98%BB%E6%AD%A2">阻止</a></b></h3>
+            <p align="center">ぎょうしゃ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%A5%AD%E8%80%85">業者</a></b></h3>
             <hr>
-            <p align="center">obstruction,<wbr> check,<wbr> hindrance</p>
+            <p align="center">trader,<wbr> merchant</p>
         </td>
         <td>
-            <p align="center">ぶさた</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%84%A1%E6%B2%99%E6%B1%B0">無沙汰</a></b></h3>
+            <p align="center">ちぢめる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B8%AE%E3%82%81%E3%82%8B">縮める</a></b></h3>
             <hr>
-            <p align="center">neglecting to stay in contact</p>
+            <p align="center">to shorten,<wbr> to reduce,<wbr> to shrink</p>
         </td>
         <td>
-            <p align="center">ふうふ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A4%AB%E5%A9%A6">夫婦</a></b></h3>
+            <p align="center">うれる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A3%B2%E3%82%8C%E3%82%8B">売れる</a></b></h3>
             <hr>
-            <p align="center">married couple,<wbr> husband and wife</p>
+            <p align="center">to be sold</p>
         </td>
         <td>
-            <p align="center">しま</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B3%B6">島</a></b></h3>
+            <p align="center">しみん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B8%82%E6%B0%91">市民</a></b></h3>
             <hr>
-            <p align="center">island</p>
+            <p align="center">citizen</p>
         </td>
         <td>
-            <p align="center">こたえる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%AD%94%E3%81%88%E3%82%8B">答える</a></b></h3>
+            <p align="center">じどうしゃ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%87%AA%E5%8B%95%E8%BB%8A">自動車</a></b></h3>
             <hr>
-            <p align="center">to answer,<wbr> to reply</p>
+            <p align="center">automobile</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕒  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌒 Lunar phase</summary>
 
-The moon is approximately 16.82% through its phase (Waxing Crescent).
+The moon is approximately 16.97% through its phase (Waxing Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 16.82% through its phase (Waxing Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 20.72%</code></pre>
+<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 20.73%</code></pre>
 </details>
