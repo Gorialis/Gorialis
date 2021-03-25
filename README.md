@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **13:19 UTC, 2021-03-25**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **14:18 UTC, 2021-03-25**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,49 +30,49 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">したしむ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%AA%E3%81%97%E3%82%80">親しむ</a></b></h3>
+            <p align="center">うでまえ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%85%95%E5%89%8D">腕前</a></b></h3>
             <hr>
-            <p align="center">to be intimate with,<wbr> to befriend</p>
+            <p align="center">ability,<wbr> skill,<wbr> facility</p>
         </td>
         <td>
-            <p align="center">ふくらむ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%86%A8%E3%82%89%E3%82%80">膨らむ</a></b></h3>
+            <p align="center">もる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%9B%9B%E3%82%8B">盛る</a></b></h3>
             <hr>
-            <p align="center">to expand,<wbr> to swell (out),<wbr> to become inflated</p>
+            <p align="center">to serve (food);<br> to fill up;<br> to prescribe</p>
         </td>
         <td>
-            <p align="center">せめる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%B2%AC%E3%82%81%E3%82%8B">責める</a></b></h3>
+            <p align="center">よのなか</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%96%E3%81%AE%E4%B8%AD">世の中</a></b></h3>
             <hr>
-            <p align="center">to condemn,<wbr> to blame,<wbr> to criticize</p>
+            <p align="center">society,<wbr> the world</p>
         </td>
         <td>
-            <p align="center">アルコール</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB">アルコール</a></b></h3>
+            <p align="center">おもて</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A1%A8">表</a></b></h3>
             <hr>
-            <p align="center">alcohol</p>
+            <p align="center">surface;<br> front;<br> outside</p>
         </td>
         <td>
-            <p align="center">～じん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E4%BA%BA">～人</a></b></h3>
+            <p align="center">～がる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E3%81%8C%E3%82%8B">～がる</a></b></h3>
             <hr>
-            <p align="center">counter for people</p>
+            <p align="center">feel</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕐  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕑  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌔 Lunar phase</summary>
+<summary>🌕 Lunar phase</summary>
 
-The moon is approximately 43.64% through its phase (Waxing Gibbous).
+The moon is approximately 43.78% through its phase (Full Moon).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 43.64% through its phase (Waxing Gibbous).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 22.89%</code></pre>
+<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 22.90%</code></pre>
 </details>
