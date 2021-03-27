@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **04:15 UTC, 2021-03-27**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **05:17 UTC, 2021-03-27**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,22 +30,22 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">こうじょ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8E%A7%E9%99%A4">控除</a></b></h3>
+            <p align="center">かいはつ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%96%8B%E7%99%BA">開発</a></b></h3>
             <hr>
-            <p align="center">subsidy,<wbr> deduction</p>
+            <p align="center">development,<wbr> exploitation</p>
         </td>
         <td>
-            <p align="center">～つづく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E7%B6%9A%E3%81%8F">～続く</a></b></h3>
+            <p align="center">せいぞん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%94%9F%E5%AD%98">生存</a></b></h3>
             <hr>
-            <p align="center">follow,<wbr> continue,<wbr> go on</p>
+            <p align="center">existence,<wbr> being,<wbr> survival</p>
         </td>
         <td>
-            <p align="center">こや</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B0%8F%E5%B1%8B">小屋</a></b></h3>
+            <p align="center">まんぞく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%BA%80%E8%B6%B3">満足</a></b></h3>
             <hr>
-            <p align="center">hut,<wbr> cabin,<wbr> shed</p>
+            <p align="center">satisfaction</p>
         </td>
         <td>
             <p align="center">きそく</p>
@@ -54,17 +54,17 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
             <p align="center">rule,<wbr> regulation</p>
         </td>
         <td>
-            <p align="center">ハンカチ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%8F%E3%83%B3%E3%82%AB%E3%83%81">ハンカチ</a></b></h3>
+            <p align="center">ふつか</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BA%8C%E6%97%A5">二日</a></b></h3>
             <hr>
-            <p align="center">handkerchief</p>
+            <p align="center">two days;<br> second day of the month</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕔  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌕 Lunar phase</summary>
 
-The moon is approximately 49.14% through its phase (Full Moon).
+The moon is approximately 49.28% through its phase (Full Moon).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 49.14% through its phase (Full Moon).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 23.34%</code></pre>
+<pre><code>2021 [████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 23.35%</code></pre>
 </details>
