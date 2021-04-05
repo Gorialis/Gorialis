@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **15:11 UTC, 2021-04-05**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **16:20 UTC, 2021-04-05**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,49 +30,49 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ふくめん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%86%E9%9D%A2">覆面</a></b></h3>
+            <p align="center">しずめる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B2%88%E3%82%81%E3%82%8B">沈める</a></b></h3>
             <hr>
-            <p align="center">mask,<wbr> veil,<wbr> disguise</p>
+            <p align="center">to sink,<wbr> to submerge</p>
         </td>
         <td>
-            <p align="center">ささやく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9B%81%E3%81%8F">囁く</a></b></h3>
+            <p align="center">ふくすう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A4%87%E6%95%B0">複数</a></b></h3>
             <hr>
-            <p align="center">to whisper,<wbr> to murmur</p>
+            <p align="center">plural,<wbr> multiple</p>
         </td>
         <td>
-            <p align="center">のぞく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%97%E3%81%8F">覗く</a></b></h3>
+            <p align="center">みょう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A6%99">妙</a></b></h3>
             <hr>
-            <p align="center">to peek in,<wbr> to look in</p>
+            <p align="center">strange,<wbr> unusual</p>
         </td>
         <td>
-            <p align="center">おれい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E7%A4%BC">お礼</a></b></h3>
+            <p align="center">それで</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%9D%E3%82%8C%E3%81%A7">それで</a></b></h3>
             <hr>
-            <p align="center">expression of gratitude;<br> thanking;<br> gift of appreciation;<br> bow</p>
+            <p align="center">and (conj.),<wbr> thereupon,<wbr> because of that</p>
         </td>
         <td>
-            <p align="center">よむ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%AA%AD%E3%82%80">読む</a></b></h3>
+            <p align="center">うたう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%AD%8C%E3%81%86">歌う</a></b></h3>
             <hr>
-            <p align="center">to read</p>
+            <p align="center">to sing</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕒  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌗 Lunar phase</summary>
+<summary>🌘 Lunar phase</summary>
 
-The moon is approximately 81.16% through its phase (Last Quarter).
+The moon is approximately 81.32% through its phase (Waning Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 81.16% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 25.93%</code></pre>
+<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 25.94%</code></pre>
 </details>
