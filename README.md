@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **00:38 UTC, 2021-04-05**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **02:01 UTC, 2021-04-05**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">たましい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%AD%82">魂</a></b></h3>
+            <p align="center">しゅうえき</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8F%8E%E7%9B%8A">収益</a></b></h3>
             <hr>
-            <p align="center">soul,<wbr> spirit</p>
+            <p align="center">earnings,<wbr> proceeds,<wbr> returns</p>
         </td>
         <td>
-            <p align="center">れいとう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%86%B7%E5%87%8D">冷凍</a></b></h3>
+            <p align="center">そくりょく</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%80%9F%E5%8A%9B">速力</a></b></h3>
             <hr>
-            <p align="center">freezing,<wbr> cold storage,<wbr> refrigeration</p>
+            <p align="center">speed</p>
         </td>
         <td>
-            <p align="center">チーズ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%81%E3%83%BC%E3%82%BA">チーズ</a></b></h3>
+            <p align="center">ねがう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%A1%98%E3%81%86">願う</a></b></h3>
             <hr>
-            <p align="center">cheese</p>
+            <p align="center">to desire,<wbr> to wish,<wbr> to request</p>
         </td>
         <td>
-            <p align="center">ずいぶん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%9A%8F%E5%88%86">随分</a></b></h3>
+            <p align="center">かわる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%A4%89%E3%82%8F%E3%82%8B">変わる</a></b></h3>
             <hr>
-            <p align="center">extremely</p>
+            <p align="center">to change (v.i.),<wbr> to be transformed,<wbr> to vary</p>
         </td>
         <td>
-            <p align="center">カレー</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%AB%E3%83%AC%E3%83%BC">カレー</a></b></h3>
+            <p align="center">おべんとう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E5%BC%81%E5%BD%93">お弁当</a></b></h3>
             <hr>
-            <p align="center">curry (abbr. for curry and rice)</p>
+            <p align="center">a boxed lunch</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕛  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕑  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌗 Lunar phase</summary>
 
-The moon is approximately 79.10% through its phase (Last Quarter).
+The moon is approximately 79.30% through its phase (Last Quarter).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 79.10% through its phase (Last Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 25.76%</code></pre>
+<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 25.78%</code></pre>
 </details>
