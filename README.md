@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **18:20 UTC, 2021-04-14**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **19:14 UTC, 2021-04-14**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">ぶか</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%83%A8%E4%B8%8B">部下</a></b></h3>
+            <p align="center">りゃくだつ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%95%A5%E5%A5%AA">略奪</a></b></h3>
             <hr>
-            <p align="center">one's subordinate</p>
+            <p align="center">pillage,<wbr> looting,<wbr> robbery</p>
         </td>
         <td>
-            <p align="center">せつぞく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%8E%A5%E7%B6%9A">接続</a></b></h3>
+            <p align="center">でんせん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BC%9D%E6%9F%93">伝染</a></b></h3>
             <hr>
-            <p align="center">connection,<wbr> union,<wbr> join,<wbr> link;<br> changing trains</p>
+            <p align="center">contagion</p>
         </td>
         <td>
-            <p align="center">じょうたい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%8A%B6%E6%85%8B">状態</a></b></h3>
+            <p align="center">こうさい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BA%A4%E9%9A%9B">交際</a></b></h3>
             <hr>
-            <p align="center">condition,<wbr> situation</p>
+            <p align="center">friendship,<wbr> association,<wbr> acquaintance</p>
         </td>
         <td>
-            <p align="center">アメリカ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB">アメリカ</a></b></h3>
+            <p align="center">かない</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AE%B6%E5%86%85">家内</a></b></h3>
             <hr>
-            <p align="center">America,<wbr> U.S.A.</p>
+            <p align="center">(one's own) wife</p>
         </td>
         <td>
-            <p align="center">タクシー</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC">タクシー</a></b></h3>
+            <p align="center">まいげつ; まいつき</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%AF%8E%E6%9C%88">毎月</a></b></h3>
             <hr>
-            <p align="center">taxi</p>
+            <p align="center">every month,<wbr> monthly</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕕  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌒 Lunar phase</summary>
 
-The moon is approximately 12.08% through its phase (Waxing Crescent).
+The moon is approximately 12.20% through its phase (Waxing Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 12.08% through its phase (Waxing Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 28.43%</code></pre>
+<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 28.44%</code></pre>
 </details>
