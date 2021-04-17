@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **12:14 UTC, 2021-04-17**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **13:18 UTC, 2021-04-17**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">くみあわせる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B">組み合わせる</a></b></h3>
+            <p align="center">みだれる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B9%B1%E3%82%8C%E3%82%8B">乱れる</a></b></h3>
             <hr>
-            <p align="center">to join together,<wbr> to combine,<wbr> to join up</p>
+            <p align="center">to get confused,<wbr> to be disordered,<wbr> to be disturbed</p>
         </td>
         <td>
-            <p align="center">もみじ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B4%85%E8%91%89">紅葉</a></b></h3>
+            <p align="center">ぼうさん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9D%8A%E3%81%95%E3%82%93">坊さん</a></b></h3>
             <hr>
-            <p align="center">(Japanese) maple</p>
+            <p align="center">Buddhist priest,<wbr> monk</p>
         </td>
         <td>
-            <p align="center">えいぎょう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%96%B6%E6%A5%AD">営業</a></b></h3>
+            <p align="center">はかせ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8D%9A%E5%A3%AB">博士</a></b></h3>
             <hr>
-            <p align="center">business,<wbr> trade,<wbr> management</p>
+            <p align="center">doctorate,<wbr> PhD.,<wbr> doctor</p>
         </td>
         <td>
-            <p align="center">～く</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E5%8C%BA">～区</a></b></h3>
+            <p align="center">おもいだす</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%99">思い出す</a></b></h3>
             <hr>
-            <p align="center">~ district,<wbr> ~ ward,<wbr> ~ borough</p>
+            <p align="center">to recall,<wbr> to remember</p>
         </td>
         <td>
-            <p align="center">にもつ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%8D%B7%E7%89%A9">荷物</a></b></h3>
+            <p align="center">はじめ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%88%9D%E3%82%81%3B%20%E5%A7%8B%E3%82%81">初め; 始め</a></b></h3>
             <hr>
-            <p align="center">luggage;<br> baggage</p>
+            <p align="center">beginning,<wbr> start</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕛  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕐  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌓 Lunar phase</summary>
 
-The moon is approximately 21.38% through its phase (First Quarter).
+The moon is approximately 21.53% through its phase (First Quarter).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 21.38% through its phase (First Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 29.18%</code></pre>
+<pre><code>2021 [█████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 29.19%</code></pre>
 </details>
