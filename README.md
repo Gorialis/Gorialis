@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **03:18 UTC, 2021-04-22**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **04:15 UTC, 2021-04-22**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">～かく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%EF%BD%9E%E7%94%BB">～画</a></b></h3>
+            <p align="center">ゆるやか</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B7%A9%E3%82%84%E3%81%8B">緩やか</a></b></h3>
             <hr>
-            <p align="center">~ strokes</p>
+            <p align="center">lenient</p>
         </td>
         <td>
-            <p align="center">からかう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8B%E3%82%89%E3%81%8B%E3%81%86">からかう</a></b></h3>
+            <p align="center">よびかける</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%91%BC%E3%81%B3%E6%8E%9B%E3%81%91%E3%82%8B">呼び掛ける</a></b></h3>
             <hr>
-            <p align="center">to ridicule,<wbr> to make fun of</p>
+            <p align="center">to call out to,<wbr> to accost,<wbr> to address (crowd),<wbr> to appeal</p>
         </td>
         <td>
-            <p align="center">かならずしも</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%BF%85%E3%81%9A%E3%81%97%E3%82%82">必ずしも</a></b></h3>
+            <p align="center">とれる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8F%96%E3%82%8C%E3%82%8B">取れる</a></b></h3>
             <hr>
-            <p align="center">(not) always,<wbr> (not) necessarily</p>
+            <p align="center">to come off,<wbr> to be taken off</p>
         </td>
         <td>
-            <p align="center">たてる</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%AB%8B%E3%81%A6%E3%82%8B">立てる</a></b></h3>
+            <p align="center">ビル</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%93%E3%83%AB">ビル</a></b></h3>
             <hr>
-            <p align="center">to stand (something) up,<wbr> to erect (something)</p>
+            <p align="center">(abbr.) building</p>
         </td>
         <td>
-            <p align="center">おてあらい</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%8A%E6%89%8B%E6%B4%97%E3%81%84">お手洗い</a></b></h3>
+            <p align="center">みせる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%8B%E3%81%9B%E3%82%8B">見せる</a></b></h3>
             <hr>
-            <p align="center">toilet,<wbr> restroom,<wbr> bathroom (lit.,<wbr> a place to wash one's hands)</p>
+            <p align="center">to show,<wbr> to display</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕒  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕓  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌔 Lunar phase</summary>
 
-The moon is approximately 37.05% through its phase (Waxing Gibbous).
+The moon is approximately 37.18% through its phase (Waxing Gibbous).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 37.05% through its phase (Waxing Gibbous).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 30.45%</code></pre>
+<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 30.46%</code></pre>
 </details>
