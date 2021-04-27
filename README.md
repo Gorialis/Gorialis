@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **10:12 UTC, 2021-04-27**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **11:10 UTC, 2021-04-27**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">つくろう</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B9%95%E3%81%86">繕う</a></b></h3>
+            <p align="center">なさけ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%83%85%E3%81%91">情け</a></b></h3>
             <hr>
-            <p align="center">to mend,<wbr> to repair</p>
+            <p align="center">sympathy,<wbr> compassion</p>
         </td>
         <td>
-            <p align="center">ぼうさん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9D%8A%E3%81%95%E3%82%93">坊さん</a></b></h3>
+            <p align="center">ローマじ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%AD%E3%83%BC%E3%83%9E%E5%AD%97">ローマ字</a></b></h3>
             <hr>
-            <p align="center">Buddhist priest,<wbr> monk</p>
+            <p align="center">romanization,<wbr> Roman letters (alphabet)</p>
         </td>
         <td>
-            <p align="center">れいぎ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A4%BC%E5%84%80">礼儀</a></b></h3>
+            <p align="center">ことなる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%95%B0%E3%81%AA%E3%82%8B">異なる</a></b></h3>
             <hr>
-            <p align="center">manners,<wbr> courtesy,<wbr> etiquette</p>
+            <p align="center">to differ,<wbr> to vary</p>
         </td>
         <td>
-            <p align="center">このごろ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%93%E3%81%AE%E9%A0%83">この頃</a></b></h3>
+            <p align="center">けいざい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B5%8C%E6%B8%88">経済</a></b></h3>
             <hr>
-            <p align="center">these days,<wbr> nowadays</p>
+            <p align="center">economics,<wbr> finance,<wbr> economy</p>
         </td>
         <td>
-            <p align="center">ろうか</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%BB%8A%E4%B8%8B">廊下</a></b></h3>
+            <p align="center">おとうと</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%BC%9F">弟</a></b></h3>
             <hr>
-            <p align="center">corridor</p>
+            <p align="center">younger brother</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕙  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕚  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌕 Lunar phase</summary>
 
-The moon is approximately 54.95% through its phase (Full Moon).
+The moon is approximately 55.09% through its phase (Full Moon).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 54.95% through its phase (Full Moon).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 31.90%</code></pre>
+<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 31.91%</code></pre>
 </details>
