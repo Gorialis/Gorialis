@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **19:16 UTC, 2021-04-27**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **20:12 UTC, 2021-04-27**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,49 +30,49 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">しんさ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%AF%A9%E6%9F%BB">審査</a></b></h3>
+            <p align="center">とうそつ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%B5%B1%E7%8E%87">統率</a></b></h3>
             <hr>
-            <p align="center">judging,<wbr> inspection,<wbr> examination</p>
+            <p align="center">command,<wbr> generalship,<wbr> leadership</p>
         </td>
         <td>
-            <p align="center">しゅうにん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%B0%B1%E4%BB%BB">就任</a></b></h3>
+            <p align="center">まっさお</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%9C%9F%E3%81%A3%E9%9D%92">真っ青</a></b></h3>
             <hr>
-            <p align="center">inauguration,<wbr> assumption of office</p>
+            <p align="center">deep blue,<wbr> ghastly pale</p>
         </td>
         <td>
-            <p align="center">はさん</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%A0%B4%E7%94%A3">破産</a></b></h3>
+            <p align="center">じょう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B8%8A">上</a></b></h3>
             <hr>
-            <p align="center">(personal) bankruptcy</p>
+            <p align="center">first volume;<br> superior quality;<br> governmental</p>
         </td>
         <td>
-            <p align="center">おどろく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%A9%9A%E3%81%8F">驚く</a></b></h3>
+            <p align="center">とくに</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E7%89%B9%E3%81%AB">特に</a></b></h3>
             <hr>
-            <p align="center">to be surprised,<wbr> to be astonished</p>
+            <p align="center">particularly</p>
         </td>
         <td>
-            <p align="center">あまり</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BD%99%E3%82%8A">余り</a></b></h3>
+            <p align="center">とる</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8F%96%E3%82%8B">取る</a></b></h3>
             <hr>
-            <p align="center">not very;<br> surplus</p>
+            <p align="center">to take (a class);<br> to get (a grade)</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕖  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕗  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
 </details>
 <details>
-<summary>🌕 Lunar phase</summary>
+<summary>🌖 Lunar phase</summary>
 
-The moon is approximately 56.23% through its phase (Full Moon).
+The moon is approximately 56.36% through its phase (Waning Gibbous).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 56.23% through its phase (Full Moon).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 32.00%</code></pre>
+<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 32.01%</code></pre>
 </details>
