@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects. I have a mix
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **11:05 UTC, 2021-05-05**)
+As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **12:09 UTC, 2021-05-05**)
 
 <h2>JLPT words of the hour</h2>
 <table>
@@ -30,41 +30,41 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
     </tr>
     <tr>
         <td>
-            <p align="center">トランジスター</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%BC">トランジスター</a></b></h3>
+            <p align="center">しようにん</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%BD%BF%E7%94%A8%E4%BA%BA">使用人</a></b></h3>
             <hr>
-            <p align="center">transistor</p>
+            <p align="center">employee,<wbr> servant</p>
         </td>
         <td>
-            <p align="center">いくじ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%82%B2%E5%85%90">育児</a></b></h3>
+            <p align="center">どういたしまして (かん)</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E3%81%A9%E3%81%86%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%A6%20%28%E3%81%8B%E3%82%93%29">どういたしまして (かん)</a></b></h3>
             <hr>
-            <p align="center">childcare,<wbr> nursing</p>
+            <p align="center">you are welcome,<wbr> don't mention it</p>
         </td>
         <td>
-            <p align="center">ぶじ</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E7%84%A1%E4%BA%8B">無事</a></b></h3>
+            <p align="center">はげしい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E6%BF%80%E3%81%97%E3%81%84">激しい</a></b></h3>
             <hr>
-            <p align="center">safety,<wbr> peace</p>
+            <p align="center">violent,<wbr> vehement,<wbr> intense</p>
         </td>
         <td>
-            <p align="center">パソコン</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3">パソコン</a></b></h3>
+            <p align="center">こうこう; こうとうがっこう</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%AB%98%E6%A0%A1%3B%20%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1">高校; 高等学校</a></b></h3>
             <hr>
-            <p align="center">(personal) computer</p>
+            <p align="center">high school;<br> senior high school</p>
         </td>
         <td>
-            <p align="center">せんたく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%B4%97%E6%BF%AF">洗濯</a></b></h3>
+            <p align="center">むいか</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%85%AD%E6%97%A5">六日</a></b></h3>
             <hr>
-            <p align="center">washing,<wbr> laundry</p>
+            <p align="center">six days;<br> sixth day of month</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🕚  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
+<summary>🕛  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
 
 > <img src="generated/now.png" width="512">
 
@@ -72,7 +72,7 @@ As a fun demonstration of what I can do, this README *dynamically regenerates* u
 <details>
 <summary>🌘 Lunar phase</summary>
 
-The moon is approximately 82.17% through its phase (Waning Crescent).
+The moon is approximately 82.32% through its phase (Waning Crescent).
 
 </details>
 <details>
@@ -83,5 +83,5 @@ The moon is approximately 82.17% through its phase (Waning Crescent).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 34.10%</code></pre>
+<pre><code>2021 [██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 34.11%</code></pre>
 </details>
