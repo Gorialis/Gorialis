@@ -94,7 +94,7 @@ def generate(time: datetime.datetime) -> Image.Image:
             #   with create_color_circle(globe.width) as color_circle:
             LOG.info('Loading color circle')
             with Image.open(NOW / 'color_circle.png') as color_circle:
-                color_circle = color_circle.convert('RGB').resize(globe.size, Image.ANTIALIAS)
+                color_circle = color_circle.convert('RGB').resize(globe.size, Image.BICUBIC)
 
                 # Paste in middle
                 LOG.info('Pasting globe')
@@ -136,7 +136,7 @@ def generate(time: datetime.datetime) -> Image.Image:
                         font=font,
                         anchor="ms",
                     )
-                
+
                 # Rotate by hour
                 im = im.rotate(-15 * (hour - 11.5))
 
@@ -149,4 +149,4 @@ def generate(time: datetime.datetime) -> Image.Image:
 
         # Return a copy to make sure the original file is closed
         LOG.info('Resizing output')
-        return outer_ring.resize((1024, 1024), Image.ANTIALIAS)
+        return outer_ring.resize((1024, 1024), Image.BICUBIC)
