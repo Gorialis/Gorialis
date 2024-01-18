@@ -20,15 +20,16 @@ I work in a handful of different disciplines, but my recent work tends mostly to
 Provided nothing goes wrong, this README will *dynamically regenerate* using GitHub Actions every hour! (it last updated at **{{ format(now, "%H:%M UTC, %Y-%m-%d") }}**)
 
 <h2>JLPT words of the hour</h2>
-<table>
+<table align="center">
     {%- for level, (expression, reading, meaning, tags) in jlpt_words.items() %}
     <tr>
         <td>JLPT {{level}}</td>
         <td>
             <p align="center">{{ reading }}</p>
             <h3 align="center"><b><a href="https://jisho.org/search/{{ quote(expression) }}">{{ expression }}</a></b></h3>
-            <hr>
-            <p align="center">{{ meaning.replace(';', ';<br>').replace(',', ',<wbr>') | safe}}</p>
+        </td>
+        <td>
+            <p>{{ meaning.replace(';', ';<br>').replace(',', ',<wbr>') | safe}}</p>
         </td>
     </tr>
     {%- endfor %}
