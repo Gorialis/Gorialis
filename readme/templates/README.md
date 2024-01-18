@@ -19,6 +19,11 @@ I work in a handful of different disciplines, but my recent work tends mostly to
 
 Provided nothing goes wrong, this README will *dynamically regenerate* using GitHub Actions every hour! (it last updated at **{{ format(now, "%H:%M UTC, %Y-%m-%d") }}**)
 
+<h2>World clock</h2>
+<div align="center">
+<img align="center" src="generated/now.png" width="512">
+</div>
+
 <h2>JLPT words of the hour</h2>
 <table align="center">
     {%- for level, (expression, reading, meaning, tags) in jlpt_words.items() %}
@@ -36,12 +41,6 @@ Provided nothing goes wrong, this README will *dynamically regenerate* using Git
 </table>
 
 <h2>Other things</h2>
-<details>
-<summary>{{ hour_emoji }}  World clock inspired by <a href="https://xkcd.com/now">XKCD now</a></summary>
-
-> <img src="generated/now.png" width="512">
-
-</details>
 <details>
 <summary>{{ phase_emoji }} Lunar phase</summary>
 
