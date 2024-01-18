@@ -13,29 +13,25 @@ Hello! I like making tangible software.
 
 ***
 
-My name is Devon and this is where you can view my public projects. I have a mix of stable and experimental projects, as well as some more comedic repositories.
+My name is Devon and this is where you can view my public projects.
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-As a fun demonstration of what I can do, this README *dynamically regenerates* using GitHub Actions every hour! (it last updated at **{{ format(now, "%H:%M UTC, %Y-%m-%d") }}**)
+Provided nothing goes wrong, this README will *dynamically regenerate* using GitHub Actions every hour! (it last updated at **{{ format(now, "%H:%M UTC, %Y-%m-%d") }}**)
 
 <h2>JLPT words of the hour</h2>
 <table>
+    {%- for level, (expression, reading, meaning, tags) in jlpt_words.items() %}
     <tr>
-        {%- for level in jlpt_words.keys() %}
-        <th>JLPT {{level}}</th>
-        {%- endfor %}
-    </tr>
-    <tr>
-        {%- for expression, reading, meaning, tags in jlpt_words.values() %}
+        <td>JLPT {{level}}</td>
         <td>
             <p align="center">{{ reading }}</p>
             <h3 align="center"><b><a href="https://jisho.org/search/{{ quote(expression) }}">{{ expression }}</a></b></h3>
             <hr>
             <p align="center">{{ meaning.replace(';', ';<br>').replace(',', ',<wbr>') | safe}}</p>
         </td>
-        {%- endfor %}
     </tr>
+    {%- endfor %}
 </table>
 
 <h2>Other things</h2>
