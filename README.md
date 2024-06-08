@@ -17,7 +17,7 @@ My name is Devon and this is where you can view my public projects.
 
 I work in a handful of different disciplines, but my recent work tends mostly towards reverse engineering, DevOps, and graphical/UX design.
 
-Provided nothing goes wrong, this README will *dynamically regenerate* using GitHub Actions every hour! (it last updated at **05:48 UTC, 2024-01-18**)
+Provided nothing goes wrong, this README will *dynamically regenerate* using GitHub Actions every hour! (it last updated at **05:00 UTC, 2024-06-08**)
 
 <h2>World clock</h2>
 <div align="center">
@@ -29,60 +29,60 @@ Provided nothing goes wrong, this README will *dynamically regenerate* using Git
     <tr>
         <td>JLPT N1</td>
         <td>
-            <p align="center">みせもの</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A6%8B%E3%81%9B%E7%89%A9">見せ物</a></b></h3>
+            <p align="center">きゃしゃ</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E8%8F%AF%E5%A5%A2">華奢</a></b></h3>
         </td>
         <td>
-            <p>show,<wbr> exhibition</p>
+            <p>delicate,<wbr> slender</p>
         </td>
     </tr>
     <tr>
         <td>JLPT N2</td>
         <td>
-            <p align="center">てきかく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E9%81%A9%E7%A2%BA">適確</a></b></h3>
+            <p align="center">はち</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E9%89%A2">鉢</a></b></h3>
         </td>
         <td>
-            <p>precise,<wbr> accurate</p>
+            <p>a bowl,<wbr> a pot</p>
         </td>
     </tr>
     <tr>
         <td>JLPT N3</td>
         <td>
-            <p align="center">ぶんせき</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E5%88%86%E6%9E%90">分析</a></b></h3>
+            <p align="center">かわかす</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E4%B9%BE%E3%81%8B%E3%81%99">乾かす</a></b></h3>
         </td>
         <td>
-            <p>analysis</p>
+            <p>to dry</p>
         </td>
     </tr>
     <tr>
         <td>JLPT N4</td>
         <td>
-            <p align="center">おもいだす</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%99">思い出す</a></b></h3>
+            <p align="center">におい</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%8C%82%E3%81%84">匂い</a></b></h3>
         </td>
         <td>
-            <p>to recall,<wbr> to remember</p>
+            <p>odor,<wbr> smell</p>
         </td>
     </tr>
     <tr>
         <td>JLPT N5</td>
         <td>
-            <p align="center">いく; ゆく</p>
-            <h3 align="center"><b><a href="https://jisho.org/search/%E8%A1%8C%E3%81%8F">行く</a></b></h3>
+            <p align="center">ある</p>
+            <h3 align="center"><b><a href="https://jisho.org/search/%E5%9C%A8%E3%82%8B">在る</a></b></h3>
         </td>
         <td>
-            <p>to go</p>
+            <p>to be,<wbr> to have</p>
         </td>
     </tr>
 </table>
 
 <h2>Other things</h2>
 <details>
-<summary>🌓 Lunar phase</summary>
+<summary>🌒 Lunar phase</summary>
 
-The moon is approximately 27.10% through its phase (First Quarter).
+The moon is approximately 7.85% through its phase (Waxing Crescent).
 
 </details>
 <details>
@@ -93,5 +93,5 @@ The moon is approximately 27.10% through its phase (First Quarter).
 </details>
 <details>
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2024 [▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁] 4.71%</code></pre>
+<pre><code>2024 [████████▁▁▁▁▁▁▁▁▁▁▁▁] 43.50%</code></pre>
 </details>
